@@ -3,7 +3,7 @@
 
 // you can write to stdout for debugging purposes, e.g.
 // System.out.println("this is a debug message");
-// test edit
+// test edit ok
 import java.util.Arrays;
 class Solution {
     public int solution(int[] A) {
